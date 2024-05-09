@@ -1,2 +1,2 @@
 # Tubuntu
-Customized Ubuntu OS
+This project offers a wide range of customization options, enabling users to personalize their Linux environment, which is based on Ubuntu. This customization extends to the desktop environment, window manager, icons, themes, and various system settings. With a user-friendly interface and an extensive collection of top-rated apps and customizable elements, this project empowers Linux enthusiasts to create a unique and personalized computing experience that reflects their style and enhances their productivity.
