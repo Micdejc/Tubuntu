@@ -9,7 +9,7 @@ This project offers a wide range of customization options, enabling users to per
 
 # Download link:
 
-https://sourceforge.net/projects/tubuntu-custom-ubuntu-os/files/latest/download
+https://sourceforge.net/projects/tubuntu-custom-ubuntu-os/
 
 # Screenshots 
 
